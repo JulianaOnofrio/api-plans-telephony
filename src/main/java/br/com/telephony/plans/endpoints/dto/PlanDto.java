@@ -1,6 +1,5 @@
 package br.com.telephony.plans.endpoints.dto;
 
-
 import br.com.telephony.plans.models.Plan;
 import lombok.Getter;
 import org.springframework.data.domain.Page;
