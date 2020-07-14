@@ -1,6 +1,5 @@
 package br.com.telephony.plans.service;
 
-
 import br.com.telephony.plans.models.Plan;
 import br.com.telephony.plans.models.Type;
 import br.com.telephony.plans.repository.PlanRepository;
